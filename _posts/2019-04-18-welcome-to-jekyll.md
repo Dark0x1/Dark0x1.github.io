@@ -1,4 +1,3 @@
----
 title: "cyber security certifications Resources"
 date: 2023-07-20T15:34:30-04:00
 categories:
@@ -52,3 +51,4 @@ tags:
 <https://github.com/burntmybagel/OSCP-Prep>
 <https://github.com/alexiasa/oscp-omnibus>
 <https://github.com/0xStarlight/CRTP-Notes>
+
