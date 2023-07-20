@@ -7,23 +7,43 @@ tags:
   - Jekyll
   - update
 ---
-
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+link:https://trello.com/b/Ay6KZFM0/pen-testing-certifications
+link:https://github.com/CyberSecurityUP/PenTest-Certifications-Roadmap
+link:https://github.com/sinecurelife/SecCertRoadmapHTML
+link:https://www.sans.org/cyber-security-skills-roadmap/
+link:https://github.com/brampat/security/blob/master/certifications/README.md
+link:https://jivoi.github.io/2015/06/19/oscp-prepare/
+link:https://github.com/rkhal101/Hack-the-Box-OSCP-Preparation
+link:https://fareedfauzi.gitbook.io/oscp-notes/
+link:https://github.com/CyberSecurityUP/eCXD-Preparation
+link:https://github.com/cpardue/OSCP-PWK-Notes-Public
+link:https://github.com/dhn/OSEE
+link:https://github.com/noraj/OSCP-Exam-Report-Template-Markdown
+link:https://github.com/RustyShackleford221/OSCP-Prep
+link:https://github.com/ryh04x/CEH-Exam-Questions
+link:https://github.com/jefferywmoore/CISSP-Study-Resources
+link:https://github.com/connectans/awesome-CISSP-CCSP
+link:https://github.com/dh0ck/Wi-Fi-Pentesting-Cheatsheet
+link:https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist
+link:https://github.com/slyth11907/Cheatsheets
+link:https://github.com/0x4D31/awesome-oscp
+link:https://github.com/RustyShackleford221/OSCP-Prep
+link:https://github.com/cpardue/OSCP-PWK-Notes-Public
+link:https://github.com/gh0x0st/OSCP-A-Step-Forward
+link:https://github.com/wwong99/pentest-notes/blob/master/oscp_resources/OSCP-Survival-Guide.md
+link:https://github.com/omurugur/OSCP
+link:https://gist.github.com/natesubra/5117959c660296e12d3ac5df491da395
+link:https://github.com/whoisflynn/OSCP-Exam-Report-Template
+link:https://github.com/strongcourage/oscp
+link:https://github.com/CyDefUnicorn/OSCP-Archives
+link:https://gist.github.com/unfo/5ddc85671dcf39f877aaf5dce105fac3
+link:https://github.com/six2dez/OSCP-Human-Guide
+link:https://github.com/tagnullde/OSCP
+link:https://github.com/superhero1/OSCP-Prep
+link:https://github.com/The-Lynx-Team/OSCP
+link:https://github.com/chvancooten/OSCP-MarkdownReportingTemplates
+link:https://github.com/ssstonebraker/oscp-scripts
+link:https://github.com/CaptBoykin/oscp
+link:https://github.com/burntmybagel/OSCP-Prep
+link:https://github.com/alexiasa/oscp-omnibus
+link:https://github.com/0xStarlight/CRTP-Notes
