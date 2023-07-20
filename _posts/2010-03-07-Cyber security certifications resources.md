@@ -1,10 +1,10 @@
 ---
-title: "cyber security certifications resources"
+title: "Cyber security certifications resources"
 categories:
   - Blog
 tags:
-  - link
-  - Post Formats
+  - oscp,ceh,ecxd,pwk,crtp
+  - templates
 ---
 <https://trello.com/b/Ay6KZFM0/pen-testing-certifications>
 <https://github.com/CyberSecurityUP/PenTest-Certifications-Roadmap>
