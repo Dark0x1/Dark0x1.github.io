@@ -45,4 +45,5 @@ tags:
 <https://github.com/CaptBoykin/oscp>
 <https://github.com/burntmybagel/OSCP-Prep>
 <https://github.com/alexiasa/oscp-omnibus>
+<https://darthpwn.gitbook.io/darthpwns-oscp-+-pentesting-notebook>
 <https://github.com/0xStarlight/CRTP-Notes>
